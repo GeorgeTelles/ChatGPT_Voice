@@ -1,4 +1,4 @@
-# ChatGPT_Voice
+# ChatGPT_Voice Python
 Chat GPT - Voice and Text Interaction / Chat GPT - Interação por Voz e Texto 
 
 
